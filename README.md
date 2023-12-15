@@ -23,7 +23,11 @@ Company X's CFO and CEO Company X's marketing team
 4. Which Indian states present the most favorable advertising opportunities for company X to maximize Diwali sales?
 
 5. What product categories are most sought after by consumers during Diwali?
-   
+
+# Process:
+
+Python will be focused here due to the accessibility, amount of data and the ability to create data visualization to share the results with stakeholders.   
+
 # Conclusion:
 
 • Gender Disparity in Purchasing Power: Females constitute the majority of buyers and demonstrate a higher purchasing power compared to males. This indicates a potential inclination towards certain products or marketing strategies tailored for the female demographic.
